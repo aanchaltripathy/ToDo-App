@@ -1,0 +1,4 @@
+# Created at 2024-08-18T16:48:45.562
+Boot Manifest-JAR contains absolute paths in classpath 'D:\REACT\todo-app\backend\todo-app\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
